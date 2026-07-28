@@ -1,6 +1,6 @@
 # JARVIS
 
-JARVIS is a simple AI assistant based on the Iron Man assistant of the same name. JARVIS can be interacted with in either an IDE or in command prompt. JARVIS has knowledge on a variety of topics ranging from computer science, mathematics, engineering, general knowledge, and more. Commands that have been given to JARVIS are down below.
+JARVIS is a simple Python AI assistant based on the Iron Man assistant of the same name. JARVIS can be interacted with in either an IDE or in command prompt. JARVIS has knowledge on a variety of topics ranging from computer science, mathematics, engineering, general knowledge, and more. Commands that have been given to JARVIS are down below.
 
 # How to Run JARVIS
 ## Disclaimer
