@@ -116,7 +116,7 @@ def run() -> None:
         answer = response["message"]["content"]
     
         newPage()
-        print("\nJ.A.R.V.I.S:\n", answer, "\n", "\n")
+        print("\nJ.A.R.V.I.S:\n", answer, "\n\n")
 
         messages.append({"role": "assistant", "content": answer})
 
